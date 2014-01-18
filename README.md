@@ -1,7 +1,7 @@
 ionicons-rails
 ==============
 
-SASS [Ionicons](https://github.com/driftyco/ionicons#ionicons) for Ruby on Rails. 
+[Ionicons](https://github.com/driftyco/ionicons#ionicons) for Ruby on Rails. 
 
 ## Installation
 
