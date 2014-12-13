@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'ionicons-rails'
-  s.version     = '1.5.2'
+  s.version     = '2.0.0'
   s.summary     = 'Ionicons for Ruby on Rails'
   s.author      = 'Zhao Han'
   s.license     = 'MIT'
